@@ -38,7 +38,7 @@ imcyborg = Movie("Im a cyborg, but that is ok",
                   "https://www.youtube.com/watch?v=1KaOLDZe2GI")
 
 
-movies = [thenumber, dragon, avatar, revolver,
-          insidious, cyborg, imcyborg]
+movies = [thenumber, revolver, avatar,
+          insidious, cyborg, imcyborg, dragon]
 
 fresh_tomatoes.open_movies_page(movies)
